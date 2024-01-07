@@ -1,0 +1,58 @@
+.result-container{
+    width: 1500px;
+}
+
+.result{
+    margin-top: 30px;
+    width: 900px;
+    background-color: white;
+    color: black;
+    height: 400px;
+    margin-left: 350px;
+}
+
+
+
+
+.heading{
+    color: rgb(14, 175, 14);
+    display: flex;
+    font-size: 40px;
+    justify-content: center;
+}
+
+.status{
+    display: flex;
+    justify-content: center;
+}
+
+.score{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    color: blue;
+}
+
+.score-container{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    font-size: 18px;
+    font-weight: 600;
+}
+.score-container div{
+    text-align: center;
+}
+.play-again{
+  margin-top: 20px;
+  margin-left: 40px;
+  background-color: green;
+
+}
+
+.go-back{
+    margin-top: 20px;
+  background-color: red;
+  margin-left: 40px;
+
+}
